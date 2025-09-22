@@ -3,8 +3,10 @@ Java Programming I of the MOOC course found here https://java-programming.mooc.f
 Should only use for education purposes and comparison with your own solutions. 
 Some of these may not be the most effiecent solution. 
 Feel free to ask questions or post feedback via Issues tab.
-Note - part05-Part05_02.Book.zip
-       part06-Part06_01.Menu.zip
+
+# Note - part05-Part05_02.Book
+# Note - part06-Part06_01.Menu
+# Are done at last
 
 
 # List of exercises
